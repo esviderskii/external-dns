@@ -42,6 +42,7 @@ Providers
 - [x] Google
 - [ ] InMemory
 - [x] Linode
+- [x] PowerDNS
 - [x] TransIP
 - [x] RFC2136
 
